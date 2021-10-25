@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/tinysegmenter-{{ version }}.tar.gz
-  sha256: 64458bdba54ba7482c02c785f960cf3d6cf61594a4dab3d64c325439094fc1b7
+  sha256: ed1f6d2e806a4758a73be589754384cbadadc7e1a414c81a166fc9adf2d40c6d
 
 build:
   number: 0
